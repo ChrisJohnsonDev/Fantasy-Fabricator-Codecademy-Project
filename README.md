@@ -1,4 +1,4 @@
-## Random string generator - Codecademy Project 
+# Random string generator - Codecademy Project 
 -----------------------------------------------
 
 # Project title - Fantasy Fabricator
